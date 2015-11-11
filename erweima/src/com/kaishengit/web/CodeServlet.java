@@ -18,7 +18,7 @@ private static final long serialVersionUID = 1L;
 	                String content = "徐新院";  
 	                EncoderHandler encoder = new EncoderHandler();  
 	                encoder.encoderQRCoder(content, response);  
-	                
+	                //徐新院第一次測試二維碼的生成和解析
 	        }  
 	  
 	}  
